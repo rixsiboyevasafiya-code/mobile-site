@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Continue</title>
+</head>
+<body>
+
+<h2>Welcome</h2>
+<p>Click continue to continue</p>
+
+<button onclick="go()">CONTINUE</button>
+
+<script>
+function go() {
+  alert("Ad loading...");
+}
+</script>
+
+</body>
+</html>
